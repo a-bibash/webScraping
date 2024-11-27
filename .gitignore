@@ -1,0 +1,26 @@
+# Scrapy settings
+.scrapy/
+
+# Virtual environment
+venv/
+.env/
+__pycache__/
+
+# Python bytecode files
+*.pyc
+*.pyo
+*.pyd
+
+# IDE-specific files (optional, depending on your IDE)
+.vscode/
+.idea/
+
+# Operating system specific
+.DS_Store            # macOS system files
+Thumbs.db            # Windows system files
+
+# Log files
+*.log
+
+# Scrapy scrapy.cfg file backup
+scrapy.cfg.backup
